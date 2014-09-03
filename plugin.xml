@@ -2,17 +2,14 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="de.appplant.cordova.plugin.email-composer"
+        id="io.github.siegfriedbolz.cordova.plugins.email-composer"
         version="0.8.2dev">
 
-    <name>EmailComposer</name>
+    <name>EmailComposer - Bolz Edition</name>
 
-    <description>Provides access to the standard interface that manages the editing and sending an email message</description>
-    <repo>https://github.com/katzer/cordova-plugin-email-composer.git</repo>
+    <description>Provides access to the standard interface that manages the editing and sending an email message - Bolz Edition (www.app-consultant.de)</description>
     <keywords>email, ios, android, windows phone, wp8</keywords>
     <license>Apache 2.0</license>
-
-    <author>Sebastián Katzer</author>
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
