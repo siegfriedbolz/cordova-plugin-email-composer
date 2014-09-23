@@ -30,7 +30,7 @@ The plugin can either be installed into the local development environment or clo
 Through the [Command-line Interface][CLI]:
 ```bash
 # ~~ from master ~~
-cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git && cordova prepare
+cordova plugin add https://github.com/siegfriedbolz/cordova-plugin-email-composer && cordova prepare
 ```
 or to use the last stable version:
 ```bash
@@ -47,11 +47,11 @@ cordova plugin rm de.appplant.cordova.plugin.email-composer
 ### PhoneGap Build
 Add the following xml to your config.xml to always use the latest version of this plugin:
 ```xml
-<gap:plugin name="de.appplant.cordova.plugin.email-composer" />
+<gap:plugin name="io.github.siegfriedbolz.cordova.plugins.email-composer" />
 ```
 or to use an specific version:
 ```xml
-<gap:plugin name="de.appplant.cordova.plugin.email-composer" version="0.8.0" />
+<gap:plugin name="io.github.siegfriedbolz.cordova.plugins.email-composer" version="0.8.0" />
 ```
 More informations can be found [here][PGB_plugin].
 
