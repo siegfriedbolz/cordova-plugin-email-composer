@@ -28,7 +28,7 @@ The plugin can either be installed into the local development environment or clo
 
 ## PhoneGap Build
 This Plugin is available in the PhoneGap Build Repository:
-- [https://build.phonegap.com/plugins/1033][https://build.phonegap.com/plugins/1033]
+- [https://build.phonegap.com/plugins/1033][phonegap_1033]
 
 ### Adding the Plugin to your project
 Through the [Command-line Interface][CLI]:
@@ -284,3 +284,4 @@ This software is released under the [Apache 2.0 License][apache2_license].
 [is_service_available]: #determine-if-the-device-is-able-to-send-emails
 [examples]: #examples
 [apache2_license]: http://opensource.org/licenses/Apache-2.0
+[phonegap_1033]: https://build.phonegap.com/plugins/1033
