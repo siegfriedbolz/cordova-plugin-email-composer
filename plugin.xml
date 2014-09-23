@@ -7,8 +7,8 @@
 
     <name>EmailComposer - Bolz Edition</name>
 
-    <description>Provides access to the standard interface that manages the editing and sending an email message - Bolz Edition (www.app-consultant.de)</description>
-    <keywords>email, ios, android, windows phone, wp8</keywords>
+    <description>Provides access to the standard interface that manages the editing and sending an email message. For iOS 7 + 8, Android 4, Windows Phone 8 - Bolz Edition (www.app-consultant.de)</description>
+    <keywords>email, ios, ios8, android, windows phone, wp8</keywords>
     <license>Apache 2.0</license>
 
     <engines>

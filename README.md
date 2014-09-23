@@ -10,12 +10,12 @@ The purpose of the plugin is to create an platform independent javascript interf
 
 
 ## Supported Platforms
-- **iOS**<br>
+- **iOS 7 and 8**<br>
 *See [MFMailComposeViewController Class Reference][ios_guide] for detailed informations and screenshots.*
 
-- **Android**
+- **Android 4**
 
-- **WP8**<br>
+- **Windows Phone 8**<br>
 *See [How to use the email compose task for Windows Phone][wp8_guide] for detailed informations.*
 
 
