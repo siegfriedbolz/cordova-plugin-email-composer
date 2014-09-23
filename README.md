@@ -41,7 +41,7 @@ cordova plugin add de.appplant.cordova.plugin.email-composer && cordova prepare
 ### Removing the Plugin from your project
 Through the [Command-line Interface][CLI]:
 ```bash
-cordova plugin rm de.appplant.cordova.plugin.email-composer
+cordova plugin rm io.github.siegfriedbolz.cordova.plugins.email-composer
 ```
 
 ### PhoneGap Build
