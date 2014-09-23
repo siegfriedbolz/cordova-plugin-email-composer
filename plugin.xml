@@ -3,9 +3,9 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="io.github.siegfriedbolz.cordova.plugins.email-composer"
-        version="0.8.2">
+        version="0.8.3">
 
-    <name>EmailComposer - Bolz Edition</name>
+    <name>EmailComposer for iOS 7 + 8, Android 4, WP8 - Bolz Edition</name>
 
     <description>Provides access to the standard interface that manages the editing and sending an email message. For iOS 7 + 8, Android 4, Windows Phone 8 - Bolz Edition (www.app-consultant.de)</description>
     <keywords>email, ios, ios8, android, windows phone, wp8</keywords>
