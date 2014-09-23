@@ -26,6 +26,10 @@ The purpose of the plugin is to create an platform independent javascript interf
 ## Installation
 The plugin can either be installed into the local development environment or cloud based through [PhoneGap Build][PGB].
 
+## PhoneGap Build
+This Plugin is available in the PhoneGap Build Repository:
+- [https://build.phonegap.com/plugins/1033][https://build.phonegap.com/plugins/1033]
+
 ### Adding the Plugin to your project
 Through the [Command-line Interface][CLI]:
 ```bash
